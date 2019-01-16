@@ -8,6 +8,8 @@
 /*1. Declare a variable named `howManyLetters` and find out how many letters are in the given string below. Console.log your result.*/
 
 var longestPlaceName = "Taumatawhakatangihangakoauauotamateaturipukakapiki- maungahoronukupokaiwhenuakitanatahu";  //Yes, this is a real place located in Porangahau, Central Hawke's Bay.
+var howManyLetters = longestPlaceName.length;
+console.log('how many letter? ' + howManyLetters);
 
 
 

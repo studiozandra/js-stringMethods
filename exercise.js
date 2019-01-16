@@ -17,8 +17,11 @@ console.log('how many letter? ' + howManyLetters);
 "x is the longest place name in the world and has y letters in its name."
 where x represents the value at `longestPlaceName` and y represents the value at `howManyLetters`*/
 
+console.log(longestPlaceName + ' is the longest place name in the world and has ' + longestPlaceName.length + ' letters in its name.');
 
 /*The string.charAt() method returns the character at the specified index (position).*/
+
+
 
 /*2. Declare a variable named `fifthLetter` and find out which letter is in the 5th position in the string below. Console.log your result.*/
 

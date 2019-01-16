@@ -43,7 +43,8 @@ console.log('world index (position) is ' + worldLocator)
 /*4. Declare a new variable named `scissorHand` that will generate a new string "are afraid" from the existing string below. Console.log your result.*/
 
 var edward = "People are afraid of me because I am different";
-
+var scissorHand = edward.slice(7, 17);
+console.log('scissorHand ' + scissorHand);
 
 
 /*The replace() method replaces a specified value with another value in a string.*/

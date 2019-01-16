@@ -70,7 +70,8 @@ console.log('small kine ' + smallKine);
 /*7. Declare a variable named `bigBand` that will convert the string below to all upper case. Console.log your result.*/
 
 var bandName = "the beatles";
-
+var bigBand = bandName.toUpperCase();
+console.log('bigBand ' + bigBand);
 
 
 /*The split() method converts a string into an array, by separating the string into substrings.*/
